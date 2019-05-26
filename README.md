@@ -1,4 +1,4 @@
-# Machine Learning 6.867 Homework
+# Reinforcement Learning for autonomous driving
 
 ## Q-Learning Project
 
